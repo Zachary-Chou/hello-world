@@ -1,5 +1,4 @@
 # hello-world
-test to create a repository
 
 进行并提交更改。
 点击该README.md文件。
